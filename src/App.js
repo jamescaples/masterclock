@@ -16,8 +16,8 @@ function App() {
                     city: 'London',
                     region: 'Europe'
                 }, {
-                    city: 'Tehran',
-                    region: 'Asia'
+                    city: 'Egypt',
+                    region: 'Africa'
                 }, {
                     city: 'Chicago',
                     region: 'America'
