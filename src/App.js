@@ -25,8 +25,8 @@ function App() {
                     city: 'Omsk',
                     region: 'Asia'
                 }, {
-                    city: 'Adelaide',
-                    region: 'Australia'
+                    city: 'New_York',
+                    region: 'America'
                 }
             ]}/>
         </div>
