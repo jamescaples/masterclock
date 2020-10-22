@@ -16,7 +16,7 @@ function App() {
                     city: 'London',
                     region: 'Europe'
                 }, {
-                    city: 'Egypt',
+                    city: 'Cairo',
                     region: 'Africa'
                 }, {
                     city: 'Chicago',
